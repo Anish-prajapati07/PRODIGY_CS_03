@@ -1,3 +1,4 @@
+#check_password_complexity
 import re
 def assess_password_strength(password):
     length_score = 0
